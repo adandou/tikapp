@@ -3,6 +3,7 @@ module.exports = {
 	configureWebpack: {
 		devServer: {
 			disableHostCheck: true
+			tikname: "tikapp"
 		}
 	}
 }
